@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(255, 255, 255);
+}
+
+#titulo {
+  background-color: lawngreen;
+  margin: 10px;
+  padding: 10px;
+  border-width: 20px;
+}
+.logo{
+  width: 90px;
+  
+  margin-left: 2em;
+}
+h1 {
+  text-align: center;
+}
+#contenedor1 {
+  width: 70%;
+  margin: 80px auto;
+  border: solid 5px rgb(102, 94, 94);
+  font: 0.9em arial, helvetica, sans-serif;
+  text-align: left;
+  background-color: rgb(208, 208, 209);
+}
+#cuestion {
+  margin: 10px;
+  padding: 10px;
+  border-width: 20px;
+}
